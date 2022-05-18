@@ -1,0 +1,9 @@
+Create a custom object (like Cord in the example) to make a set and/or map key.
+
+Make a shared_ptr < Heirarchy > the contents of a vector. 
+
+Vector: container thats a dynamic array - make it of any type you want and automaticly increase in size if 
+you need to add any elemnts to it.
+TLDR: an array but better
+
+To Run: ./run -> go to docker container. run latest container by hitting cli. b/<File Name>

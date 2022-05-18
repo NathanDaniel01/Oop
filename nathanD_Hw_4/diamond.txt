@@ -1,0 +1,3 @@
+C++ Diamond Homework: 
+to run: ./diamond
+to compile gcc diamond.cpp

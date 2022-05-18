@@ -1,0 +1,13 @@
+Pattern Assignment HW# 6:
+Pattern: Command Pattern
+    - Designed to be a Behavior pattern with the intents 
+        - to encapsulate a request in a object
+        - allows the peerameteruzation of clients with different request types
+        - allows for a request queue
+    think chef order waitor and customer.
+
+Run:
+Compile:
+
+Code in JS
+
